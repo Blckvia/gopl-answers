@@ -10,4 +10,5 @@
 - [ex1.5](ex1.5): ex1.5 generates GIF animations of random Lissajous figures. Black in green palette
 - [ex1.6](ex1.6): ex1.6 generates GIF animations of random Lissajous figures. Black on random color palette
 - [ex1.7](ex1.7): ex1.7 streams the content found at each specified URL to stdout
-- [ex1.8](ex1.8): fetch prints the content found at each specified URL
+- [ex1.8](ex1.8): ex1.8 fetch prints the content found at each specified URL
+- [ex1.9](ex1.9): ex1.9 fetch prints the content found at each specified URL
