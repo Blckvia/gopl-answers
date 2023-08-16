@@ -1,4 +1,4 @@
-// Streams the content found at each specified URL to stdout.
+// ex1.7 streams the content found at each specified URL to stdout.
 package main
 
 import (
