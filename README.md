@@ -12,3 +12,4 @@
 - [ex1.7](ex1.7): ex1.7 streams the content found at each specified URL to stdout
 - [ex1.8](ex1.8): ex1.8 fetch prints the content found at each specified URL
 - [ex1.9](ex1.9): ex1.9 fetch prints the content found at each specified URL
+- [ex1.10](ex1.10): ex1.10 fetchall fetches URLs in parallel and reports their times and sizes.
