@@ -1,5 +1,4 @@
 // ex1.10 fetchall fetches URLs in parallel and reports their times and sizes.
-
 package main
 
 import (
