@@ -14,3 +14,4 @@
 - [ex1.9](ex1.9): ex1.9 fetch prints the content found at each specified URL
 - [ex1.10](ex1.10): ex1.10 fetchall fetches URLs in parallel and reports their times and sizes.
 - [ex1.12](ex1.12): ex1.12 lissajous generates GIF animations of random Lissajous figures.
+- [ex2.1](ex2.1): package tempconv performs Celsius Fahrenheit and Kelvin conversions.
