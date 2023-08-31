@@ -17,3 +17,4 @@
 - [ex2.1](ex2.1): ex2.1 package tempconv performs Celsius Fahrenheit and Kelvin conversions.
 - [ex2.2](ex2.2): ex2.2 prints measurements given on the command line or stdin in various.
 - [ex2.3](ex2.3): ex2.3 compare popcount implementations: looping.
+- [ex2.4](ex2.4): ex2.4 compare popcount implementations, including looping table lookups and shift value.
