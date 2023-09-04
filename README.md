@@ -18,4 +18,5 @@
 - [ex2.2](ex2.2): ex2.2 prints measurements given on the command line or stdin in various.
 - [ex2.3](ex2.3): ex2.3 compare popcount implementations: looping.
 - [ex2.4](ex2.4): ex2.4 compare popcount implementations, including looping table lookups and shift value.
-- [ex2.5](ex2.5): ex2.5 ex2.4: implementation including clear rightmost.
+- [ex2.5](ex2.5): ex2.5 implementation including clear rightmost.
+- [ex2.5](ex3.1): ex3.1 prints an svg image, ignoring non-finite vertexes.
