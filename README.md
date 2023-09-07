@@ -19,4 +19,5 @@
 - [ex2.3](ex2.3): ex2.3 compare popcount implementations: looping.
 - [ex2.4](ex2.4): ex2.4 compare popcount implementations, including looping table lookups and shift value.
 - [ex2.5](ex2.5): ex2.5 implementation including clear rightmost.
-- [ex2.5](ex3.1): ex3.1 prints an svg image, ignoring non-finite vertexes.
+- [ex3.1](ex3.1): ex3.1 prints an svg image, ignoring non-finite vertexes.
+- [ex3.10](ex3.10): ex3.10 inserts commas into integer strings given as command-line arguments, without using recursion.
