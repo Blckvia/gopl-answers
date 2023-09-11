@@ -1,4 +1,4 @@
-// ex3.11
+// ex3.12 the function checks whether two words are anagrams
 package main
 
 import (

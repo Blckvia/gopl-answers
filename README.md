@@ -21,3 +21,4 @@
 - [ex2.5](ex2.5): ex2.5 implementation including clear rightmost.
 - [ex3.1](ex3.1): ex3.1 prints an svg image, ignoring non-finite vertexes.
 - [ex3.10](ex3.10): ex3.10 inserts commas into integer strings given as command-line arguments, without using recursion.
+- [ex3.12](ex3.12): ex3.12 the function checks whether two words are anagrams
