@@ -24,3 +24,4 @@
 - [ex3.12](ex3.12): ex3.12 the function checks whether two words are anagrams
 - [ex4.3](ex4.3): ex4.3 reverse function uses a pointer to an array to reverse it
 - [ex4.4](ex4.4): ex4.4 rotates a slice of ints by one position to the left.
+- [ex4.5](ex4.5): ex4.5 dedupes a slice of strings.
