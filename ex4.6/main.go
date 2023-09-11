@@ -31,5 +31,5 @@ func replaceUnicodeSpaces(input []byte) []byte {
 func main() {
     input := []byte("Hello\u2000\u2001\u2002\u2003\u2004\u2005\u2006World")
     result := replaceUnicodeSpaces(input)
-    println(string(result)) // Вывод: "Hello World"
+    println(string(result)) 
 }
