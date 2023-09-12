@@ -26,3 +26,4 @@
 - [ex4.4](ex4.4): ex4.4 rotates a slice of ints by one position to the left.
 - [ex4.5](ex4.5): ex4.5 dedupes a slice of strings.
 - [ex4.6](ex4.6): ex4.6 replaceUnicodeSpaces squashes each rune of adjacent Unicode spaces in UTF-8 encoded []byte slice into a single ASCII space
+- [ex4.7](ex4.7): ex4.7 reverse a utf8 string
