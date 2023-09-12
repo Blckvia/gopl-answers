@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"testing"
 )
 
@@ -14,9 +13,9 @@ func TestDeleteAdjacentDub(t *testing.T) {
 
 	for _, test := range tests {
 		ans := deleteAdjacentDub(test.s)
-		for i, _ := range ans {
+		for i := range ans {
 			if ans[i] != test.want[i] {
-				fmt.Errorf("Slice mismatch:\nArr: %q, Got: %v\nWant: %v", test.s, ans, test.want)
+				t.Errorf("Slice mismatch:\nArr: %q, Got: %v\nWant: %v", test.s, ans, test.want)
 			}
 		}
 	}
