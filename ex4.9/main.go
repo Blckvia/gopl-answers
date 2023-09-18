@@ -1,3 +1,4 @@
+// ex4.9 counts word frequency for stdin.
 package main
 
 import (

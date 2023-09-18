@@ -28,3 +28,4 @@
 - [ex4.6](ex4.6): ex4.6 replaceUnicodeSpaces squashes each rune of adjacent Unicode spaces in UTF-8 encoded []byte slice into a single ASCII space
 - [ex4.7](ex4.7): ex4.7 reverse a utf8 string
 - [ex4.8](ex4.8): ex4.8 computes counts of Unicode characters
+- [ex4.9](ex4.9): ex4.9 counts word frequency for stdin.
