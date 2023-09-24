@@ -29,3 +29,4 @@
 - [ex4.7](ex4.7): ex4.7 reverse a utf8 string
 - [ex4.8](ex4.8): ex4.8 computes counts of Unicode characters
 - [ex4.9](ex4.9): ex4.9 counts word frequency for stdin.
+- [ex5.1](ex5.1): ex5.1 prints the links in an HTML document read from standard input.
