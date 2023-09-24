@@ -1,4 +1,4 @@
-# Answer Go Programmin Language
+# Answer Go Programming Language
 
 # Exercises:
 
