@@ -6,6 +6,13 @@ import (
 	"os"
 )
 
+func a(a uint) {
+  fmt.Println("isasaa")
+}
+
+
 func main() {
 	fmt.Println(os.Args)
+  a(5)
 }
+
