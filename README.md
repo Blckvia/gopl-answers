@@ -35,3 +35,4 @@
 - [ex5.15](ex5.15): ex5.15 create min, max, sum functions using variadic patter
 - [ex5.16](ex5.16): ex5.16 variadic string-join function
 - [ex5.18](ex5.18): ex5.18 saves the contents of a URL to a local file.
+- [ex5.19](ex5.19): ex5.19 function which do not contain return statement returns non-zero value using panic & recover
