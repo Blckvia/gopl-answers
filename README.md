@@ -34,3 +34,4 @@
 - [ex5.6](ex5.6): ex5.6 computes an SVG rendering of a 3-D surface function, using a bare return
 - [ex5.15](ex5.15): ex5.15 create min, max, sum functions using variadic patter
 - [ex5.16](ex5.16): ex5.16 variadic string-join function
+- [ex5.18](ex5.18): ex5.18 saves the contents of a URL to a local file.
