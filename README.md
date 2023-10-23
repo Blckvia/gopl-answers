@@ -38,3 +38,4 @@
 - [ex5.19](ex5.19): ex5.19 function which do not contain return statement returns non-zero value using panic & recover
 - [ex6.1](ex6.1): ex6.1 create Len, Remove, Clear, Copy methods
 - [ex6.2](ex6.2): ex6.2 variadic method AddAll
+- [ex6.3](ex6.2): ex6.3 create Intersect, Difference and Symmetric methods
