@@ -37,3 +37,4 @@
 - [ex5.18](ex5.18): ex5.18 saves the contents of a URL to a local file.
 - [ex5.19](ex5.19): ex5.19 function which do not contain return statement returns non-zero value using panic & recover
 - [ex6.1](ex6.1): ex6.1 create Len, Remove, Clear, Copy methods
+- [ex6.2](ex6.2): ex6.2 variadic method AddAll
