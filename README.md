@@ -36,3 +36,4 @@
 - [ex5.16](ex5.16): ex5.16 variadic string-join function
 - [ex5.18](ex5.18): ex5.18 saves the contents of a URL to a local file.
 - [ex5.19](ex5.19): ex5.19 function which do not contain return statement returns non-zero value using panic & recover
+- [ex6.1](ex6.1): ex6.1 create Len, Remove, Clear, Copy methods
