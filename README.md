@@ -39,3 +39,4 @@
 - [ex6.1](ex6.1): ex6.1 create Len, Remove, Clear, Copy methods
 - [ex6.2](ex6.2): ex6.2 variadic method AddAll
 - [ex6.3](ex6.2): ex6.3 create Intersect, Difference and Symmetric methods
+- [ex7.1](ex7.1): ex7.1 create WordCounter and LineCounter. Using bufio package
