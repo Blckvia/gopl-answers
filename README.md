@@ -40,3 +40,4 @@
 - [ex6.2](ex6.2): ex6.2 variadic method AddAll
 - [ex6.3](ex6.2): ex6.3 create Intersect, Difference and Symmetric methods
 - [ex7.1](ex7.1): ex7.1 create WordCounter and LineCounter. Using bufio package
+- [ex7.2](ex7.2): ex7.2 wraps a writer to count written words.
