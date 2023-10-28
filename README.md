@@ -43,3 +43,4 @@
 - [ex7.2](ex7.2): ex7.2 wraps a writer to count written words.
 - [ex7.5](ex7.5): ex7.5 provides a LimitReader that reports EOF at a given offset.
 - [ex7.6](ex7.6): ex7.6 prints flag arguments for Celsius, Kelvin & Fahrenheit.
+- [ex7.10](ex7.10): ex7.10 create function which will check is palindrom the interface
