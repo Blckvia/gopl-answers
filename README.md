@@ -45,3 +45,4 @@
 - [ex7.6](ex7.6): ex7.6 prints flag arguments for Celsius, Kelvin & Fahrenheit.
 - [ex7.10](ex7.10): ex7.10 create function which will check is palindrom the interface
 - [ex7.11](ex7.11): ex7.11 create CRUD operations
+- [ex7.12](ex7.12): ex7.12 create html template to list goods
