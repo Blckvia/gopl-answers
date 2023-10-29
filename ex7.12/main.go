@@ -1,3 +1,4 @@
+// ex7.12 create html template to list goods
 package main
 
 import (
