@@ -47,3 +47,4 @@
 - [ex7.11](ex7.11): ex7.11 create CRUD operations
 - [ex7.12](ex7.12): ex7.12 create html template to list goods
 - [ex8.1](ex8.1): ex8.1 clock is a TCP server that periodically writes the time.
+- [ex8.2](ex8.2): ex8.2 is a minimal ftp server
