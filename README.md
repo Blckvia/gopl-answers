@@ -48,3 +48,4 @@
 - [ex7.12](ex7.12): ex7.12 create html template to list goods
 - [ex8.1](ex8.1): ex8.1 clock is a TCP server that periodically writes the time.
 - [ex8.2](ex8.2): ex8.2 is a minimal ftp server
+- [ex8.3](ex8.3): ex8.3 simple read/write client for TCP servers.

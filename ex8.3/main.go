@@ -1,3 +1,4 @@
+// ex8.3 simple read/write client for TCP servers.
 package main
 
 import (
