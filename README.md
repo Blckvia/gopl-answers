@@ -49,3 +49,4 @@
 - [ex8.1](ex8.1): ex8.1 clock is a TCP server that periodically writes the time.
 - [ex8.2](ex8.2): ex8.2 is a minimal ftp server
 - [ex8.3](ex8.3): ex8.3 simple read/write client for TCP servers.
+- [ex8.4](ex8.4): ex8.4 Reverb2 is a TCP server that simulates an echo using sync.WaitGroup
