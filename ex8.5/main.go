@@ -1,4 +1,4 @@
-// Mandelbrot emits a PNG image of the Mandelbrot fractal.
+// ex8.5 Mandelbrot emits a PNG image of the Mandelbrot fractal. with sync.WaitGroup
 package main
 
 import (
