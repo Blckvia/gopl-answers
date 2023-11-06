@@ -51,3 +51,4 @@
 - [ex8.3](ex8.3): ex8.3 simple read/write client for TCP servers.
 - [ex8.4](ex8.4): ex8.4 Reverb2 is a TCP server that simulates an echo using sync.WaitGroup
 - [ex8.8](ex8.8): ex8.8 Reverb2 is a TCP server that simulates an echo using sync.WaitGroup and select with timeout 
+- [ex8.10](ex8.10): ex8.10 is a web-mirroring tool use http.NewRequest
