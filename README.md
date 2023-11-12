@@ -55,3 +55,4 @@
 - [ex8.12](ex8.12): ex8.12 is a server that lets clients chat with each other.
 - [ex8.13](ex8.13): ex8.13 is a chat server that disconnects inactive clients.
 - [ex8.14](ex8.14): ex8.14 is a chat server that prompts clients for a name upon connection.
+- [ex9.1](ex9.1): ex9.1 provides a concurrency-safe bank, with withdrawals.
