@@ -57,3 +57,4 @@
 - [ex8.14](ex8.14): ex8.14 is a chat server that prompts clients for a name upon connection.
 - [ex9.1](ex9.1): ex9.1 provides a concurrency-safe bank, with withdrawals.
 - [ex9.2](ex9.2): ex9.2 popcount function using sync.Once
+- [ex9.4](ex9.4): ex9.4 create pipeline which connects with arbitrary quantity goroutines
