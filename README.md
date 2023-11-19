@@ -60,3 +60,4 @@
 - [ex9.4](ex9.4): ex9.4 create pipeline which connects with arb∂itrary quantity goroutines
 - [ex11.1](ex11.1): ex11.1 computes counts of Unicode characters, and includes tests.
 - [ex11.2](ex11.2): ex11.2 tests bit-vector and map-based IntSet implementations.
+- [ex11.3](ex11.3): ex11.3 create test fuctnion for non palindrome sentences or string

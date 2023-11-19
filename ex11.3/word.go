@@ -1,4 +1,4 @@
-// 11.3 create test fuctnion for non palindrome sentences or string
+// ex11.3 create test fuctnion for non palindrome sentences or string
 package word
 
 import "unicode"
