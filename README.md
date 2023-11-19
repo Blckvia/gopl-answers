@@ -58,4 +58,4 @@
 - [ex9.1](ex9.1): ex9.1 provides a concurrency-safe bank, with withdrawals.
 - [ex9.2](ex9.2): ex9.2 popcount function using sync.Once
 - [ex9.4](ex9.4): ex9.4 create pipeline which connects with arb∂itrary quantity goroutines
-- [ex9.5](ex9.5): ex9.5 tests of performance of ping-ponging goroutines.
+- [ex11.1](ex11.1): ex11.1 computes counts of Unicode characters, and includes tests.
