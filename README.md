@@ -62,3 +62,4 @@
 - [ex11.2](ex11.2): ex11.2 tests bit-vector and map-based IntSet implementations.
 - [ex11.3](ex11.3): ex11.3 create test fuctnion for non palindrome sentences or string
 - [ex11.5](ex11.5): ex11.5 tests strings.Split using a table-driven test.
+- [ex11.6](ex11.6): ex11.6 benchmarks popcount implementations.
